@@ -145,8 +145,12 @@ a{
     margin-top: 25px;
     margin-bottom: 17px;
 }
+.p_info_pro{
+    line-height:22px;
+}
 .sub{
     text-align: center;
+    
 }
 .img_sub_list{
     height: 289px;
@@ -157,6 +161,7 @@ a{
     margin-bottom: 22px;
 }
 .p_sub_list_info{
+    line-height:22px;
     margin:  0 auto;
     width: 310px;
     text-align: center;
@@ -184,6 +189,7 @@ a{
     margin-bottom: 10px;
 }
 .subtitle_info_block{
+    line-height:22px;
     margin:  0 auto;
     text-align: center;
     width: 682px;
